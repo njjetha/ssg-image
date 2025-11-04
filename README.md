@@ -54,3 +54,6 @@ alias ssg-image-run='docker run -it --rm --user $(id -u):$(id -g) --workdir="$PW
 ```
 ./setup.sh
 ```
+## License
+
+*qcom-reusable-workflows* is licensed under the [BSD-3-clause License](https://spdx.org/licenses/BSD-3-Clause.html). See [LICENSE.txt](../git_reuse/qcom-reusable-workflows/LICENSE.txt) for the full license text.
