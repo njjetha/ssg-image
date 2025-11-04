@@ -1,4 +1,4 @@
-name: Qualcomm Preflight Checks Reusable Workflow
+name: Qualcomm Preflight Checks
 
 on:
   pull_request_target:
