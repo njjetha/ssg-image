@@ -25,7 +25,7 @@ added to the **docker** group (the output of `id` should contain *docker*).
 
 The following example captures how to setup a docker continer to build securemsm modules.
 
-### 1. Clone kmake-image
+### 1. Clone ssg-image
 ```
 git clone git@https://github.com/qualcomm/ssg-image.git
 cd ssg-image
